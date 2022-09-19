@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuejs_precise"]=self["webpackChunkvuejs_precise"]||[]).push([[808],{7808:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var r=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},u=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("body",[t("div",[e._v("Mohon maaf, link tidak valid.")])])}],a={name:"NotFound",components:{},data(){return{}},created(){},mounted(){},methods:{}},s=a,c=t(1001),o=(0,c.Z)(s,r,u,!1,null,"7ff99b1f",null),f=o.exports}}]);
+//# sourceMappingURL=808.7052ef07.js.map
